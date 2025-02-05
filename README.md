@@ -73,7 +73,7 @@ The File Retrieval Engine exposes a REST API for programmatic access. This allow
 
         {
           "contentSearchTerm": "word1 word2",
-          "minSize": "3934630", // by bit ==> 3843ko
+          "minSize": "3934630", // by octet ==> 3843ko
           "maxSize": "4096000", // by octet ==> 4000ko
           "fileName": "filename", 
         }
